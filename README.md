@@ -7,3 +7,10 @@ From the above results, we see that vehicle length and ground clearance contribu
 Because our p-value is far below 0.05%, we can safely reject the null hypothesis, meaning the slope of our linear model is not zero. 
 
 Although we have a good p-value, since only two of our five variables are significant, this could be an example of oversampling
+
+## Summary Statistics on Suspension Coil
+![alt text](https://github.com/specialcanadian/MechaCar_Statistical_Analysis/blob/main/Images/Total_PSI_Summary.png?raw=true)
+![alt text](https://github.com/specialcanadian/MechaCar_Statistical_Analysis/blob/main/Images/PSI_Summ_By_Lot.png?raw=true)
+For all manufacturing lots combined, the PSI variance is 62.3, well within range for MechaCar design specifications. 
+However, when splitting up the data by lot, we see that Lot3 has a variance of 170.3, much higher than the required limit of 100. 
+From this analysis, I would say there needs to be an investigation into Lot3’s manufacturing process. 
