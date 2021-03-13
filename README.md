@@ -20,3 +20,4 @@ From this analysis, I would say there needs to be an investigation into Lot3’s
 ![alt text](https://github.com/specialcanadian/MechaCar_Statistical_Analysis/blob/main/Images/Lot1_PSI_Mean.png?raw=true)
 ![alt text](https://github.com/specialcanadian/MechaCar_Statistical_Analysis/blob/main/Images/Lot2_PSI_Mean.png?raw=true)
 ![alt text](https://github.com/specialcanadian/MechaCar_Statistical_Analysis/blob/main/Images/Lot3_PSI_Mean.png?raw=true)
+From the T-tests, we see that only Lot3 has a p-value below 0.05, which means it is the only lot where we can reject the null hypothesis. This, along with previous examples, show that something is most likely going wrong in lot3 
