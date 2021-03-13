@@ -21,3 +21,7 @@ From this analysis, I would say there needs to be an investigation into Lot3’s
 ![alt text](https://github.com/specialcanadian/MechaCar_Statistical_Analysis/blob/main/Images/Lot2_PSI_Mean.png?raw=true)
 ![alt text](https://github.com/specialcanadian/MechaCar_Statistical_Analysis/blob/main/Images/Lot3_PSI_Mean.png?raw=true)
 From the T-tests, we see that only Lot3 has a p-value below 0.05, which means it is the only lot where we can reject the null hypothesis. This, along with previous examples, show that something is most likely going wrong in lot3 
+
+## Study Design: MechaCar vs Competition
+In comparing MechaCar to the competition, the null hypothesis would be that their cars perform the exact same. The alternative hypothesis would be MechaCar cars performing differently (ideally better) than the competitor. My study would start by finding similar cars between the manufacturers, (for example, their MiniVan model/s) and then comparing price, MPG, safety, etc. 
+A possible test would be finding the mean safety rating across all car models from each company, including a variance calculation. If there is a high variance, it could imply one specific model has safety issues, and then a more thorough investigation could be done. 
