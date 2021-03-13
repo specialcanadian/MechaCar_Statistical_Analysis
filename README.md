@@ -14,3 +14,9 @@ Although we have a good p-value, since only two of our five variables are signif
 For all manufacturing lots combined, the PSI variance is 62.3, well within range for MechaCar design specifications. 
 However, when splitting up the data by lot, we see that Lot3 has a variance of 170.3, much higher than the required limit of 100. 
 From this analysis, I would say there needs to be an investigation into Lot3’s manufacturing process. 
+
+## T-Tests on Suspension Coils
+![alt text](https://github.com/specialcanadian/MechaCar_Statistical_Analysis/blob/main/Images/Total_PSI_Mean.png?raw=true)
+![alt text](https://github.com/specialcanadian/MechaCar_Statistical_Analysis/blob/main/Images/Lot1_PSI_Mean.png?raw=true)
+![alt text](https://github.com/specialcanadian/MechaCar_Statistical_Analysis/blob/main/Images/Lot2_PSI_Mean.png?raw=true)
+![alt text](https://github.com/specialcanadian/MechaCar_Statistical_Analysis/blob/main/Images/Lot3_PSI_Mean.png?raw=true)
